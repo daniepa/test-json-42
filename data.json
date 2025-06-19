@@ -7,8 +7,12 @@
                 "full_name": "Walter White"
             },
             {
-                "id": 42,
+                "id": 7,
                 "full_name": "Gandalf The Gray"
+            },
+            {
+                "id": 42,
+                "full_name": "Marvin"
             }
         ]
     }
