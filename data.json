@@ -1,0 +1,15 @@
+{
+    "successfull": true,
+    "result": {
+        "people": [
+            {
+                "id": 1,
+                "full_name": "Walter White"
+            },
+            {
+                "id": 42,
+                "full_name": "Gandalf The Gray"
+            }
+        ]
+    }
+}
